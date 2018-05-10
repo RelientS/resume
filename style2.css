@@ -1,0 +1,35 @@
+#title{
+  float: left;
+  height: 650px;
+  width: 100px;
+  margin-right: 20px;
+  background-color: #1E90FF;
+  background-position: left;
+}
+#info{
+  float: left;
+  width: 500px;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+p {
+  width: 600px;
+  font-weight: bold;
+}
+span{
+  width: 400px;
+  font-weight: normal;
+  margin:  10px;
+}
+.span1{
+  width: 400px;
+  font-weight: normal;
+  text-align: left;
+  margin-left: 0;
+}
+a{
+  font-weight: normal;
+  margin: 10px;
+}

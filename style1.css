@@ -1,0 +1,25 @@
+p {
+  width: 400px;
+  font-weight: bold;
+}
+body {
+  background-image:url( "../src/apex.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+span{
+  width: 400px;
+  font-weight: normal;
+  margin:  10px;
+}
+.span1{
+  width: 400px;
+  font-weight: normal;
+  text-align: left;
+  margin: 0;
+}
+a{
+  width: 400px;
+  font-weight: normal;
+  margin: 10px;
+}
